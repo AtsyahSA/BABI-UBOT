@@ -43,7 +43,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^.m(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**MEMEK NYA ANAK INIIIII....**")
+    await typew.edit("**BUSSU TELANG HAHHAHA**")
 
 
 @register(outgoing=True, pattern='^.k(?: |$)(.*)')
@@ -79,7 +79,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern='^.bsl(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**BAU SAWI LO..!!**")
+    await typew.edit("**BAU LASO LU..!!**")
 
 
 @register(outgoing=True, pattern='^.hai(?: |$)(.*)')

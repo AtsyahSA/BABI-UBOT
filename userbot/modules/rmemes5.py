@@ -125,7 +125,7 @@ async def koc(e):
         sleep(1)
         await e.edit("`Hobinya Entodtin Bininya Orang`")
         sleep(1)
-        await e.edit("`wkwkwkwkwk enggak" Canda Doang:v`")
+        await e.edit("`wkwkwkwkwk enggak enggak Canda Doang:v`")
         sleep(1)
         await e.edit("`Hobi Dia Music Kok`")
         sleep(1)
